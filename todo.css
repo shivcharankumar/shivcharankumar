@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color: rgba(13, 0, 255, 0.602);
+}
+input{
+   
+    background-color: rgba(212, 127, 255, 0.851);
+    margin-left: 300px;width:35%;
+    height: 22px;
+}
+#btn{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    border: none;
+}
